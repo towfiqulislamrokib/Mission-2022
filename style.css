@@ -15,7 +15,10 @@ body {
 
 h1 {
     font-size: 50px;
+}
 
+h2 {
+    font-size: 40px;
 }
 
 .header-container {
@@ -26,6 +29,10 @@ h1 {
 
 .left-header {
     width: 50%;
+}
+
+.left-header p {
+    text-align: justify;
 }
 
 .left-header img {
@@ -58,4 +65,53 @@ h1 {
 
 .midlle-context img {
     width: 40%;
+}
+
+
+
+.mid-pic {
+    margin-left: 5%;
+    width: 40%;
+}
+
+.mid-pic img {
+    width: 350px;
+    height: 350px;
+}
+
+.mid-right {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#project-pic img {
+    padding-left: 20%;
+    height: 350px;
+    width: 350px;
+}
+
+#last {
+    margin-right: 4%;
+}
+
+footer {
+    background-color: black;
+    height: 150px;
+}
+
+footer h3 {
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
+
+#last-left img {
+    height: 350px;
+    width: 400px;
 }
